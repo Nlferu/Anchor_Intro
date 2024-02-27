@@ -1,4 +1,4 @@
-# Example Program
+# Anchor Intro Program
 
 ## Blockchain
 
